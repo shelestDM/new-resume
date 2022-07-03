@@ -56,7 +56,7 @@ body {
   width: 650px;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
   margin-bottom: 40px;
@@ -79,7 +79,7 @@ body {
 .my_projects_text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
   margin-left: 5px;
@@ -87,16 +87,17 @@ body {
 
 .my_projects_link {
   font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
+  font-weight: bold;
+  padding-top: 15px;
 }
 
 .paren_section {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #000;
 }
@@ -128,7 +129,7 @@ body {
 .my_work_exp_duty {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size:  16px;
   line-height: 24px;
   color: #595959;
 }
@@ -154,7 +155,7 @@ body {
 .my_management {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size:  16px;
   line-height: 17px;
   color: #000000;
   margin: 0 0 10px 0;
@@ -200,7 +201,7 @@ body {
 .contacts_section_title {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size:  16px;
   line-height: 24px;
   color: #fff;
   margin-right: 5px;
@@ -209,7 +210,7 @@ body {
 .contacts_section_link {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size:  16px;
   line-height: 24px;
   color: #fff;
   opacity: 0.5;
@@ -241,7 +242,7 @@ body {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
 
@@ -249,7 +250,7 @@ body {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size:  16px;
   line-height: 24px;
 }
 .my_education_section_1 {
@@ -259,7 +260,7 @@ body {
 .my_work_exp_duty_path {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
 }
@@ -283,4 +284,11 @@ body {
 .box1 {
   width: 650px;
   height: 320px;
+}
+
+
+.my-photo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
